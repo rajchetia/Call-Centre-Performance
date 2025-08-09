@@ -22,7 +22,7 @@ It uses Excel features such as Pivot Tables, Slicers, and Conditional Formatting
 - KPI Tracking & Visualization
 
 ## 📥 How to Use
-1. Download the `Call_Centre_Dashboard.xlsx` file.
+1. Download the `Call_Centre_Performance.xlsx` file.
 2. Open in Microsoft Excel.
 3. Use slicers and filters to explore different KPIs and segments.
 
